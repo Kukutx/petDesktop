@@ -1,0 +1,79 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7443",
+      "name": "对话气泡",
+      "font_class": "duihuaqipao",
+      "unicode": "f0004",
+      "unicode_decimal": 983044
+    },
+    {
+      "icon_id": "1013823",
+      "name": "女孩",
+      "font_class": "iconnvhai",
+      "unicode": "e78c",
+      "unicode_decimal": 59276
+    },
+    {
+      "icon_id": "4922586",
+      "name": "缩小",
+      "font_class": "reduction",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    },
+    {
+      "icon_id": "5672454",
+      "name": "气泡",
+      "font_class": "qipao",
+      "unicode": "e728",
+      "unicode_decimal": 59176
+    },
+    {
+      "icon_id": "7049040",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "9928617",
+      "name": "cancel",
+      "font_class": "cancel",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "9974757",
+      "name": "感叹号",
+      "font_class": "gantanhao",
+      "unicode": "e710",
+      "unicode_decimal": 59152
+    },
+    {
+      "icon_id": "11006409",
+      "name": "壁纸",
+      "font_class": "bizhi",
+      "unicode": "e6ae",
+      "unicode_decimal": 59054
+    },
+    {
+      "icon_id": "16403530",
+      "name": "色情诈骗",
+      "font_class": "seqingzhapian",
+      "unicode": "e773",
+      "unicode_decimal": 59251
+    },
+    {
+      "icon_id": "25849761",
+      "name": "火箭",
+      "font_class": "huojian",
+      "unicode": "e6e1",
+      "unicode_decimal": 59105
+    }
+  ]
+}
